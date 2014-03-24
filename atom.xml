@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[# This is a comment]]></title>
-  <link href="http://eloyvega.github.io/atom.xml" rel="self"/>
-  <link href="http://eloyvega.github.io/"/>
-  <updated>2014-03-24T15:14:11-06:00</updated>
-  <id>http://eloyvega.github.io/</id>
+  <link href="http://evega.mx/atom.xml" rel="self"/>
+  <link href="http://evega.mx/"/>
+  <updated>2014-03-24T15:16:48-06:00</updated>
+  <id>http://evega.mx/</id>
   <author>
     <name><![CDATA[Eloy Vega]]></name>
     
