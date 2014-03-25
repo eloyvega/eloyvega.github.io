@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://evega.mx/blog/2014/03/24/hello-blog/</loc>
-        <lastmod>2014-03-24T22:39:33-06:00</lastmod>
+        <lastmod>2014-03-24T22:43:04-06:00</lastmod>
     </url>
     <url>
         <loc>http://evega.mx/robots.txt</loc>
@@ -10,7 +10,7 @@
     </url>
     <url>
         <loc>http://evega.mx/blog/archives/</loc>
-        <lastmod>2014-03-24T22:39:33-06:00</lastmod>
+        <lastmod>2014-03-24T22:43:04-06:00</lastmod>
     </url>
     <url>
         <loc>http://evega.mx/about/</loc>
@@ -18,6 +18,6 @@
     </url>
     <url>
         <loc>http://evega.mx/</loc>
-        <lastmod>2014-03-24T22:39:33-06:00</lastmod>
+        <lastmod>2014-03-24T22:43:04-06:00</lastmod>
     </url>
 </urlset>
