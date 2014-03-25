@@ -15,7 +15,7 @@ Por ejemplo este blog es construido con Octopress y alojado en Github Pages, gen
 
 Todo es miel sobre hojuelas, todos pueden iniciar un proyecto personal y tener un prototipo más o menos funcional listo en semanas. Pero no olviden que Heroku será olvidado como Geocities, Rails será algún día un Spring cualquiera y Node se convertirá en un lindo recuerdo.
 
-Pero para esto vivimos y la constante evolución de las tecnologías nos dice que la simplificación es una constante y quien se quede con las herramientas aburridas y lentas está destinado a hundirse con el barco al que se aferran. Si este blog no lo dejo en el olvido, espero que sea bitácora de mi aventura como desarrollador.
+Para esto vivimos y la continua evolución de las tecnologías nos dice que la simplificación es una constante y quien se quede con las herramientas aburridas y lentas está destinado a hundirse con el barco al que se aferran. Si este blog no lo dejo en el olvido, espero que sea bitácora de mi aventura como desarrollador.
 
 \#Esto no es un hashtag<br/>
 \#Esto es un comentario
