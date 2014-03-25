@@ -27,11 +27,11 @@ to learn about modular scales.
 // ------------------------------
 
 //$accent-color: #65a672;
-$accent-color: #2155ae  ;
-$accent-hover-color: lighten($accent-color, 15%);
+$accent-color: #2155ae;
+$accent-hover-color: lighten($accent-color, 25%);
 
 $text-color: #333;
-$secondary-text-color: #8d8d8d;
+$secondary-text-color: #9f9f9f;
 
 $line-color: #e6e6e6;
 $hide-line-numbers: true;
@@ -140,7 +140,7 @@ $border-style: 2px solid $secondary-text-color;
 
 html {
   @extend .default-font;
-  border-top: 10px solid $accent-color;
+  //border-top: 10px solid $accent-color;
   font-size: 125%;
   line-height: 1;
 }
@@ -365,7 +365,7 @@ body {
       font-size: 62.000px;
       font-size: 3.1rem;
       font-weight: bold;
-      text-transform: uppercase;
+      //text-transform: uppercase;
       margin-bottom: 7.640px;
       margin-bottom: 0.382rem;
       
