@@ -9,7 +9,7 @@ published: true
 
 ¡Creativo título! Como buen libro de programación que te enseña a usar la salida estándar para imprimir tu primer cadena en pantalla, esperando que tus ojos se llenen de lágrimas por la emoción. Meh.
 
-La última vez que tuve un blog fue en tiempos de Live Spaces al mismo tiempo que era capaz de "construir" sitios web alojados en Geocities... está implícito que "construir" se refiere a usar FrontPage y algo de Macromedia Flash. Ambos servicios el día de hoy son historia y la evolución de la que fueron parte es, hoy en día, emocionante.
+La última vez que tuve un blog fue en tiempos de Live Spaces al mismo tiempo que era capaz de "construir" sitios web alojados en Geocities... está implícito que "construir" se refiere a usar FrontPage y algo de Macromedia Flash. Ambos servicios actualmente son historia y la evolución de la que fueron parte es, hoy en día, emocionante.
 <!-- more -->
 Por ejemplo este blog es construido con Octopress y alojado en Github Pages, generar los archivos y hacer el deploy toma menos de un minuto. No es para menos, los desarrolladores nos estamos acostumbrando a escribir aplicaciones y ponerlas en producción de forma inmediata (¿o sigues usando Java?) con lenguajes como Ruby o frameworks como Django (war avoided), así como plataformas tan geniales como Heroku que solo requieren un push para poner tu aplicación live.
 
